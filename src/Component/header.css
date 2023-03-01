@@ -1,0 +1,13 @@
+.header{
+    height: 70px;
+    width: 100%;
+    border-bottom: 2px solid rgb(14, 95, 30);
+}
+.icon{
+margin-top: 12px;
+    
+}
+.camera{
+    float: right;
+    margin: 20px;
+}
